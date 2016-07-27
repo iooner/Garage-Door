@@ -87,7 +87,7 @@ void loop()
   }
   else if (is_open == HIGH && is_closed == HIGH)
   {
-      DOOR_STATE = 2; // Mouvement Ouverture
+      DOOR_STATE = 2; // Mouvement
   }
   else
   {
